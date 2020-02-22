@@ -1,7 +1,7 @@
 # 4CH_Dimmer_Switch_Touch_Screen_Wemos
  4CH Dimmer Switch Touch Screen Wemos mini
 
- #Use ESP8266 2.5.0 version for this project.
+ # Use ESP8266 2.5.0 version for this project.
  
  ## YouTube Tutorial Part #1
  
